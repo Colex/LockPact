@@ -38,3 +38,7 @@ time.sleep(5)
 semaphore.unlock()
 
 ```
+
+Cross-platform
+----------
+Although the module is written in Python, it can be easily ported to any other language. This distributed locking system should work regardless of the technologies behind.
